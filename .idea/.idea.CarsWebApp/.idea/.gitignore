@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.CarsWebApp.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../:\NIR_dir\CarsWebApp\.idea\.idea.CarsWebApp\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
